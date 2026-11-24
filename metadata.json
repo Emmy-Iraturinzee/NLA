@@ -1,0 +1,8 @@
+{
+  "name": "Remix NLA - Land Administration Information System (LAIS)",
+  "description": "National Land Authority Land Administration Information System for parcel management, transaction workflows, GIS mapping, and land registry analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
